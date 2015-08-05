@@ -50,6 +50,7 @@ abstract class AbsActionBarView extends ViewGroup {
     protected boolean mSplitActionBar;
     protected boolean mSplitWhenNarrow;
     protected int mContentHeight;
+    protected int mContent_N;
 
     protected ViewPropertyAnimatorCompat mVisibilityAnim;
 
